@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment Submission Tool"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment Submission Tool.Tests", "Assignment Submission Tool.Tests\Assignment Submission Tool.Tests.csproj", "{E32BDA2D-778C-4255-A7C5-158E1F14FBC4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment Submission Tool.Model", "Assignment Submission Tool.Model\Assignment Submission Tool.Model.csproj", "{53146D36-A6AA-4261-B7B8-1BF0E08A0C05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{E32BDA2D-778C-4255-A7C5-158E1F14FBC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E32BDA2D-778C-4255-A7C5-158E1F14FBC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E32BDA2D-778C-4255-A7C5-158E1F14FBC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53146D36-A6AA-4261-B7B8-1BF0E08A0C05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53146D36-A6AA-4261-B7B8-1BF0E08A0C05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53146D36-A6AA-4261-B7B8-1BF0E08A0C05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53146D36-A6AA-4261-B7B8-1BF0E08A0C05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
